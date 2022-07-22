@@ -37,12 +37,15 @@ page, check out the maven repo here:
 
   [https://repo1.maven.org/maven2/com/google/protobuf/protoc/](https://repo1.maven.org/maven2/com/google/protobuf/protoc/)
 
+Building From Source
+--------------------
+
 These pre-built binaries are only provided for released versions. If you want
 to use the github main version at HEAD, or you need to modify protobuf code,
 or you are using C++, it's recommended to build your own protoc binary from
 source.
 
-If you would like to build protoc binary from source, see the [C++ Installation
+If you would like to build protoc binary from source, see the [C++ Building and Installation
 Instructions](src/README.md).
 
 Protobuf Runtime Installation
